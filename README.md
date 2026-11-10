@@ -1,2 +1,2 @@
-# kbi
-Krypton Binary Interface -- Krypton-Lang Optimization
+# qbi
+Quantum Binary Interface -- Krypton-Lang Quantum Programming Extension
